@@ -1,5 +1,7 @@
 # sans-interface-mockup
 
+Inspired by https://www.mantidproject.org/Using_the_SANS_GUI
+
 **Usage:**
 
 ```Py
