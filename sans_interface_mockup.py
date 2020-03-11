@@ -57,7 +57,7 @@ def run_numbers_tab():
         w.Text(value='69002', description='Can', layout={'width': "170px"}),
         w.FileUpload(description='', layout={'width': "70px"})
     ])
-    direct = w.VBox(children=[w.Label(value='Scattering'), dir_sam, dir_can],
+    direct = w.VBox(children=[w.Label(value='Direct'), dir_sam, dir_can],
                     layout={'border': 'solid 1px lightgrey'})
 
     # Options box
